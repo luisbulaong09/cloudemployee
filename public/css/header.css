@@ -1,0 +1,21 @@
+header {
+  background-color: yellowgreen;
+  color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 10px 0px; }
+
+#header-content {
+  margin: 0 auto;
+  width: 70%; }
+
+#getontop {
+  font-size: 36px; }
+
+#social-icon-container {
+  text-align: right;
+  margin-top: 20px; }
+
+#social-icon-container li {
+  margin: 0px 3px; }
+
+/*# sourceMappingURL=header.css.map */
