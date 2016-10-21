@@ -1,0 +1,25 @@
+footer{
+  background-color: yellowgreen;
+  color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 10px 0px;
+  .row{
+    padding-bottom: 10px;
+  }
+}
+#footer-content{
+  margin: 0 auto;
+  width: 1200px;
+  a{
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  .align-right {
+    text-align: right;
+  }
+}
+@media screen and (max-width: 1250px){
+  #footer-content{
+    width: 100%;
+  }
+}

@@ -21,6 +21,7 @@ require('laravel-elixir-vue-2');
 elixir(function(mix) {
     mix.sass([
         'header.scss',
+        'footer.scss',
         'app.scss'
     ]);
 });
